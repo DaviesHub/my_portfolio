@@ -57,10 +57,34 @@ gap: 30px;
     gap: 8px;
     font-size: 14px;
     font-style: verdana;
+    margin-top: 9px;;
 }
 
 .skills {
     display: flex;
-flex-direction: column;
-gap: 10px;
+    flex-direction: column;
+    gap: 10px;
 }
+
+ul {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    gap: 8px;
+    margin-top: 9px;
+}
+
+.left-items {
+    margin-left: 15px;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+    width: 15rem;
+  }
+  
