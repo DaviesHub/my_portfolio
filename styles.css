@@ -19,23 +19,48 @@
     background: #A8A8A8;
   }
 
-  body {
-    display: flex;
-    font-family: Roboto, sans-serif;
-    margin: 0;
-  }
+body {
+display: flex;
+font-family: Roboto, sans-serif;
+margin: 0;
+}
 
-  .left-section {
+.left-section {
+display: flex;
+background-color: #32127a;
+width: 960px;
+}
+
+.content {
+display: flex;
+flex-direction: column;
+color: white;
+margin-left: 15px;
+margin-top: 35px;
+gap: 30px;
+}
+
+.header {
+    font-style: verdana;
+    font-weight: 600;
+}
+
+.contact {
     display: flex;
     flex-direction: column;
-    background-color: #1560bd;
-    width: 850px;
-  }
+    gap: 10px;
+}
 
-  .content {
+.contact-details {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
-    margin-left: 15px;
-    color: white;
-  }
+    gap: 8px;
+    font-size: 14px;
+    font-style: verdana;
+}
+
+.skills {
+    display: flex;
+flex-direction: column;
+gap: 10px;
+}
