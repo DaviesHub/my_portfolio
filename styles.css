@@ -114,3 +114,19 @@ input[type="range"]:focus::-webkit-slider-thumb {
     outline-offset: 0.125rem;
   }
   
+  .language {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.lang-level {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 9px;
+}
+
+.slide-container {
+    margin-top: -6px;
+}
