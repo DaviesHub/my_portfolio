@@ -189,3 +189,19 @@ input[type="range"]:focus::-webkit-slider-thumb {
 .summary {
     margin-top: 10px;;
 }
+
+.right-headers {
+    font-weight: 700;
+    font-size: 20px;
+    color: #32127a;
+}
+
+.texts {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    gap: 8px;
+    font-size: 16px;
+    font-family: Verdana;
+    color: #303030;
+}
