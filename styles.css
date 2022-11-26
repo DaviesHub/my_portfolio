@@ -130,3 +130,15 @@ input[type="range"]:focus::-webkit-slider-thumb {
 .slide-container {
     margin-top: -6px;
 }
+
+.memberships {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.hobbies {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
