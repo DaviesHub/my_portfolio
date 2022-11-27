@@ -41,7 +41,6 @@ gap: 30px;
 }
 
 .header {
-    font-style: verdana;
     font-weight: 600;
 }
 
@@ -56,7 +55,6 @@ gap: 30px;
     flex-direction: column;
     gap: 8px;
     font-size: 14px;
-    font-style: verdana;
     margin-top: 9px;;
 }
 
