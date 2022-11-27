@@ -208,7 +208,8 @@ input[type="range"]:focus::-webkit-slider-thumb {
     color: #303030;
 }
 
-.experience {
+.experience,
+.education {
     display: flex;
     flex-direction: column;
 }
@@ -225,13 +226,24 @@ ol {
     color: #303030;
 }
 
-.work {
+.work,
+.edu {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.work-title {
+.work-title,
+.edu-title {
     display: flex;
     justify-content: space-between
+}
+
+.co,
+.deg {
+    font-weight: 600;
+}
+
+.date {
+    color: #32127a;
 }
