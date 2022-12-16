@@ -1,0 +1,13 @@
+body::before {
+    display: block;
+    content: "";
+    height: 60px;
+}
+
+.showcase-img {
+    height: 33rem;
+}
+
+.showcase-text {
+    color: #4CBB17;
+}
