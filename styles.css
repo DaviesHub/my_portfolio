@@ -40,3 +40,19 @@ overflow-x: hidden;
 .showcase-text {
     color: #4CBB17;
 }
+
+#projects {
+    background-color: #404040;
+}
+
+svg {
+    color: #3776AB;
+}
+
+.card {
+    background: blue;
+}
+
+.card-title {
+    color: #008000;
+}
