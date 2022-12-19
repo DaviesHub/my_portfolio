@@ -64,6 +64,10 @@ overflow-x: hidden;
     fill: #0066b2;
 }
 
+#db-icon {
+    fill: #c0c0c0;
+}
+
 
 .card {
     height: 100%;
