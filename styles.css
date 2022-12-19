@@ -50,7 +50,7 @@ svg {
 }
 
 .card {
-    background: blue;
+    height: 100%;
 }
 
 .card-title {
