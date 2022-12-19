@@ -45,9 +45,18 @@ overflow-x: hidden;
     background-color: #404040;
 }
 
-svg {
-    color: #3776AB;
+#task-manager-icon {
+    fill: #3776AB;
 }
+
+#html-icon {
+    fill: orangered;
+}
+
+#css-icon {
+    fill: #0066b2;
+}
+
 
 .card {
     height: 100%;
