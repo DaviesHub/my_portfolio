@@ -68,6 +68,10 @@ overflow-x: hidden;
     fill: #c0c0c0;
 }
 
+#ebook-store-icon {
+    fill: #FF0800;
+}
+
 
 .card {
     height: 100%;
