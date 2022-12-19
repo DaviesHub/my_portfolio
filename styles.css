@@ -41,6 +41,13 @@ overflow-x: hidden;
     color: #4CBB17;
 }
 
+@media (max-width: 325px) {
+    .showcase-sec {
+        padding-left: 1px;
+        padding-right: 1px;
+        }
+    }
+
 #projects {
     background-color: #404040;
 }
