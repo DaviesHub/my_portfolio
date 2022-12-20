@@ -9,3 +9,4 @@ Ebook store pic shot by Pixabay on Pexels.
 OCR game pic shot by Nico Becker on Pexels
 Warehouse pic by Tiger Lily on Pexels
 Financial calculator pic by Nataliya Vaitkevich on Pexels
+MNIST project photo by Andrea De Santis on Unsplash
