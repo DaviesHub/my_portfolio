@@ -72,6 +72,10 @@ overflow-x: hidden;
     fill: #FF0800;
 }
 
+.django-icon {
+    fill: #006400;
+}
+
 
 .card {
     height: 100%;
