@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+portvenv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
